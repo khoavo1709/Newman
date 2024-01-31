@@ -1,0 +1,19 @@
+{
+  "name": "newman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "cls-allure": "rimraf /s /q ./allure-results",
+    "open-report": "allure serve",
+    "dev": "newman run",
+    "test": "node demo.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "newman": "^6.1.0",
+    "newman-reporter-allure": "^2.11.1",
+    "rimraf": "^5.0.5"
+  }
+}

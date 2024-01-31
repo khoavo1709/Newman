@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="4" time="1.099">
+  <testsuite name="DEMO STATUS 401" id="190c9d52-3c77-4b3b-ba79-cbe5d1ce2bab" timestamp="2024-01-31T10:25:05.952Z" tests="0" failures="0" errors="0" time="0.480"/>
+  <testsuite name="DEMO STATUS 201" id="d7a402d4-334e-442f-9330-e87c2fe658b8" timestamp="2024-01-31T10:25:05.952Z" tests="0" failures="0" errors="0" time="0.260"/>
+  <testsuite name="DEMO STATUS 400 invalid value" id="e072c12d-6aed-43cd-92f8-8337d4b7fbcc" timestamp="2024-01-31T10:25:05.952Z" tests="0" failures="0" errors="0" time="0.191"/>
+  <testsuite name="DEMO STATUS 400 missing required value" id="bcc06424-c117-43a3-8518-039c49e89d46" timestamp="2024-01-31T10:25:05.952Z" tests="0" failures="0" errors="0" time="0.168"/>
+</testsuites>

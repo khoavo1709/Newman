@@ -1,0 +1,12 @@
+{
+    "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzA2NzAxMjkzLCJpYXQiOjE3MDY2OTc2OTMsImp0aSI6ImMyMmQ3YWY3ZWQ5MzQ5NDJiODk0MmU1Y2FlZTU2NDQ4IiwidXNlcl9pZCI6NDI2fQ.zvfgLSQ6Udux4Udr_FT5LMyZa9gDMNMlmEh13tKp_ag",
+    "Content-Type": "application/json",
+    "User-Agent": "PostmanRuntime/7.36.1",
+    "Accept": "*/*",
+    "Cache-Control": "no-cache",
+    "Postman-Token": "84cf3877-c830-4bc4-b657-247b8ccd3b14",
+    "Host": "staging-sport-heist.thedigitalba.com.au",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Connection": "keep-alive",
+    "Content-Length": "261"
+}

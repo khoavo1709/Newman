@@ -1,0 +1,43 @@
+{
+	"item": [
+		{
+			"name": "Register",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"username\": {{username}},\r\n  \"password\": \"Sh_12345678!@#\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{baseUrl}}/auth/auth0/login/",
+					"host": [
+						"{{baseUrl}}"
+					],
+					"path": [
+						"auth",
+						"auth0",
+						"login",
+						""
+					]
+				}
+			},
+			"response": []
+        }
+	],
+	"variable": [
+        {
+            "key": "username",
+            "value": "\"matial\""
+        },
+        {
+            "key": "baseUrl",
+            "value": "https://staging-sport-heist.thedigitalba.com.au/api"
+        }
+	]
+}

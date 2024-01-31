@@ -1,0 +1,1 @@
+{"status_code":400,"data":[],"errors":{"idea_duration":["Ensure this value is from 180 second to 300 second."]},"message":"fail"}

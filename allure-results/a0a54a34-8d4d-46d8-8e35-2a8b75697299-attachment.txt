@@ -1,0 +1,10 @@
+{
+  "title": "DEMO 201",
+  "description": "DEMO 201",
+  "type": "position",
+  "club_uuid": "76456d56-452c-4001-96c0-c2a329bd1949",
+  "idea_duration":300,
+  "vote_duration":200,
+  "posted_at": "2024-01-31T23:05:14.981Z",
+  "reason_ruled_out": "string"
+}
